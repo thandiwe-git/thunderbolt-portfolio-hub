@@ -2,7 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 
 const paths = ["/", "/projects", "/contact"];
 
-export const Route = createFileRoute("/sitemap/xml")({
+export const Route = createFileRoute("/sitemap.xml")({
   server: {
     handlers: {
       GET: ({ request }) => {
