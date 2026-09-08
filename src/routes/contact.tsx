@@ -113,7 +113,7 @@ function Contact() {
               angelasetshange2@gmail.com
             </a>
             <p className="mt-6 text-sm text-muted-foreground">
-              Messages sent through this form are delivered straight to that inbox.
+              Prefer email? Write directly. Otherwise the form beside this reaches me just as well.
             </p>
           </div>
 
